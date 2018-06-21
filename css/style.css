@@ -1,0 +1,38 @@
+body{
+    width: 100%;
+    background-color: #ebf2f4;
+}
+
+.heading{
+	text-align: center;
+	font-family:'Slabo 27px', serif;
+}
+
+.textContainer{
+	margin: auto;
+	width: 80%;
+}
+.container01{
+    margin: auto;
+    background-color: white;
+    width: 1120px;
+    height: 400px;
+}
+
+.image01{
+	width: 200px;
+}
+
+#ballon{
+		position: relative;
+		top: -10px;
+		left: -50px;
+}
+
+.sliding{
+	margin: 20px auto;
+	text-align: center;
+	width: 250px;
+	height: 250px;
+	background-color: blue;
+}
